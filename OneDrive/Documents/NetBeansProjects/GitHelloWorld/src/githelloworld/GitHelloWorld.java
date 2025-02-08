@@ -19,6 +19,7 @@ public class GitHelloWorld {
         System.out.println("Goodbye");
         System.out.println("Hi Alice!");
         System.out.println("Hi Bob!");
+        System.out.println("Hi Charlie!");
     }
     
 }
