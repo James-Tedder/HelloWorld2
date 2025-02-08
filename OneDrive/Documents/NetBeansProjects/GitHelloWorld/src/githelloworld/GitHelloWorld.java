@@ -17,11 +17,9 @@ public class GitHelloWorld {
         System.out.println("Here ye : important announcement");
         System.out.println("Hello World");
         System.out.println("Goodbye");
-<<<<<<< HEAD
         System.out.println("Hi Alice!");
-=======
         System.out.println("Hi Bob!");
->>>>>>> BobBranch
+        System.out.println("Hi Charlie!");
     }
     
 }
