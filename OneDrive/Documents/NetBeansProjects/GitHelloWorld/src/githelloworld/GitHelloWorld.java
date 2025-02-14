@@ -27,6 +27,9 @@ public class GitHelloWorld {
         System.out.println("Hi Charlie!");
         System.out.println("Hi Denise!");
         System.out.println("Hi Ester!");
+        
+        Runtime gfg = Runtime.getRuntime();
+        System.out.println("Initial free memory: " + gfg.freeMemory() + " bytes");
     }
     
 }
