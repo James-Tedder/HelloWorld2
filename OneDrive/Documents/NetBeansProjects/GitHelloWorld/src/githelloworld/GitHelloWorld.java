@@ -4,6 +4,8 @@
  */
 package githelloworld;
 
+import java.util.*;
+
 /**
  *
  * @author jlt10
@@ -14,6 +16,9 @@ public class GitHelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Date d1 = new Date();
+        System.out.println("Current date is " + d1);
+        
         System.out.println("Here ye : important announcement");
         System.out.println("Hello World");
         System.out.println("Goodbye");
